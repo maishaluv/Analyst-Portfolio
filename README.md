@@ -10,6 +10,7 @@
 
 🌟 Let's connect and collaborate on exciting projects!
 
+
 # About Me
 Let me tell you about myself. I bring a unique blend of creativity, analytical prowess, and a passion for solving complex business challenges to the table. With a Bachelor of Business degree from Victoria University, Melbourne, where I majored in Event Management and Marketing, my journey into the dynamic world of data and technology has been an exciting one.
 
@@ -24,7 +25,7 @@ This repository is a testament to my expertise in Excel, SQL, Business Intellige
 # Projects
 In this section, I present the culmination of my work – completed projects that demonstrate my skills in Excel, SQL, Business Intelligence, Python, and my passion for creative problem-solving. These projects are tangible illustrations of my data-driven approach and potential contributions to your organization's success.
 
-**Toy Sales Analysis**
+### Toy Sales Analysis
 
 **Goal:** To perform a comprehensive descriptive analysis of Toy Store sales data, providing actionable insights to enhance product offerings, pricing strategies, and store locations.
 
@@ -32,7 +33,7 @@ In this section, I present the culmination of my work – completed projects tha
 
 **Skills:** Data Analysis, Data Preprocessing, Data Visualization (Tableau), MySQL, Python Scripting, Data Ingestion of CSV Files, Documentation
 
-**Wiki**: 
+**Wiki**: [Toy Sales Analysis Wiki](https://github.com/maishaluv/Analyst-Portfolio/wiki/Toy-Sales-Analysis-Wiki)
 
 
 
