@@ -18,7 +18,7 @@ In my formative years, as a graduate within the telecommunications sector, I emb
 
 Currently, I hold a vital role in telecommunications, collaborating closely with business stakeholders to establish and maintain secondary controls that protect against revenue leakages. This role marries my creative problem-solving approach with the rigor of data analytics.
 
-However, my aspirations extend beyond telecommunications. I envision a diverse approach to data, and I am passionate about exploring its applications across various industries. My ongoing project, the Toy Sales analysis, is just one example of how I utilize Python for data generation, MySQL for in-depth data analysis, and Tableau for engaging data visualization. I am also dedicated to documenting project requirements, Service Level Agreements (SLAs), and the intricacies of our ETL (Extract, Transform, Load) processes.
+However, my aspirations extend beyond telecommunications. I envision a diverse approach to data, and I am passionate about exploring its applications across various industries. My ongoing project, the Toy Sales analysis, is just one example of how I utilize Python for data generation, MySQL for in-depth data analysis, and Tableau for engaging data visualization. I am also dedicated to documenting project requirements, Service Level Agreements (SLAs), and the intricacies of the ETL (Extract, Transform, Load) processes.
 
 This repository is a testament to my expertise in Excel, SQL, Business Intelligence, Python, and my dedication to innovative problem-solving. I am eager to bring my diverse and creative data-driven approach to contribute to the success of your organization.
 
@@ -29,9 +29,9 @@ In this section, I present the culmination of my work – completed projects tha
 
 **Goal:** To perform a comprehensive descriptive analysis of Toy Store sales data, providing actionable insights to enhance product offerings, pricing strategies, and store locations.
 
-**Description:** This project focuses on leveraging data analytics to explore and uncover valuable insights from sales data obtained from a toy store. By utilizing MySQL for data storage and preprocessing, Python for data analysis, and Tableau for data visualization, the aim is to provide a holistic view of sales trends, customer behavior, and product performance. The goal is to empower decision-makers with data-driven insights to optimize various aspects of the business and boost revenue.
+**Description:** This project focuses on leveraging data analytics to explore and uncover valuable insights from sales data obtained from a toy store. By utilizing Python for data generation and preprocessing, MySQL for data storage and analysis and Tableau for data visualization, the aim is to provide a holistic view of sales trends, customer behavior, and product performance. The goal is to empower decision-makers with data-driven insights to optimize various aspects of the business and boost revenue.
 
-**Skills:** Data Analysis, Data Preprocessing, Data Visualization (Tableau), MySQL, Python Scripting, Data Ingestion of CSV Files, Documentation
+**Skills:** Data Analysis, Data Preprocessing, Data Visualization (Tableau), MySQL, Python Scripting, Data Ingestion of CSV Files, and Documentation
 
 **Wiki**: [Toy Sales Analysis Wiki](https://github.com/maishaluv/Analyst-Portfolio/wiki/Toy-Sales-Analysis-Wiki)
 
