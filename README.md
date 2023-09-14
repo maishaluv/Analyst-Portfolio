@@ -26,9 +26,9 @@ In this section, I present the culmination of my work – completed projects tha
 
 **Toy Sales Analysis**
 
-**Goal:** To perform a comprehensive descriptive analysis of Mexican Toy Store sales data, providing actionable insights to enhance product offerings, pricing strategies, and store locations.
+**Goal:** To perform a comprehensive descriptive analysis of Toy Store sales data, providing actionable insights to enhance product offerings, pricing strategies, and store locations.
 
-**Description:** This project focuses on leveraging data analytics to explore and uncover valuable insights from sales data obtained from a Mexican toy store. By utilizing MySQL for data storage and preprocessing, Python for data analysis, and Tableau for data visualization, the aim is to provide a holistic view of sales trends, customer behavior, and product performance. The goal is to empower decision-makers with data-driven insights to optimize various aspects of the business and boost revenue.
+**Description:** This project focuses on leveraging data analytics to explore and uncover valuable insights from sales data obtained from a toy store. By utilizing MySQL for data storage and preprocessing, Python for data analysis, and Tableau for data visualization, the aim is to provide a holistic view of sales trends, customer behavior, and product performance. The goal is to empower decision-makers with data-driven insights to optimize various aspects of the business and boost revenue.
 
 **Skills:** Data Analysis, Data Preprocessing, Data Visualization (Tableau), MySQL, Python Scripting, Data Ingestion of CSV Files, Documentation
 
