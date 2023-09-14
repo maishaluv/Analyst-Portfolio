@@ -1,7 +1,7 @@
 # Welcome
 👋 Hi, howzit? I'm Maisha!
 
-🚀 I thrive on creative problem-solving and have a deep affinity for harnessing the power of data. With a focus on the telecommunications sector, I excel in finding inventive answers to intricate business dilemmas. My experience encompasses data consolidation, governance, and pioneering data-driven strategies. 
+🚀 I thrive on creative problem-solving and have a deep affinity for harnessing the power of data. With a diverse focus in data, I excel in finding inventive answers to intricate business dilemmas. My experience encompasses data consolidation, governance, and pioneering data-driven strategies. 
 
 💼 Please feel free to view my CV in PDF for more details on my qualifications and experiences: [MAISHA LUVHANI CV.pdf](https://github.com/maishaluv/Analyst-Portfolio/files/12611337/MAISHA.LUVHANI.CV.pdf)
 
