@@ -25,7 +25,7 @@ This repository is a testament to my expertise in Excel, SQL, Business Intellige
 # Projects
 In this section, I present the culmination of my work – completed projects that demonstrate my skills in Excel, SQL, Business Intelligence, Python, and my passion for creative problem-solving. These projects are tangible illustrations of my data-driven approach and potential contributions to your organization's success.
 
-### Toy Sales Analysis
+### 1️⃣ Toy Sales Analysis
 
 **Goal:** To perform a comprehensive descriptive analysis of Toy Store sales data, providing actionable insights to enhance product offerings, pricing strategies, and store locations.
 
