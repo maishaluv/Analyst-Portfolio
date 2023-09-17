@@ -16,7 +16,7 @@ Let me tell you about myself. I bring a unique blend of creativity, analytical p
 
 In my formative years, as a graduate within the telecommunications sector, I embarked on a project that was not just about data consolidation but also about finding unconventional solutions to business problems. This experience taught me that innovation and creativity are invaluable assets when navigating the data landscape. I realized the importance of data management, governance, and the role of policies, processes, and procedures in maintaining data integrity.
 
-Currently, I hold a vital role in telecommunications, collaborating closely with business stakeholders to establish and maintain secondary controls that protect against revenue leakages. This role marries my creative problem-solving approach with the rigor of data analytics.
+Currently, I hold a vital role in telecommunications as a Business Assurance Specialist, collaborating closely with business stakeholders to establish and maintain secondary controls that protect against revenue leakages. This role marries my creative problem-solving approach with the rigor of data analytics.
 
 However, my aspirations extend beyond telecommunications. I envision a diverse approach to data, and I am passionate about exploring its applications across various industries. My ongoing project, the Toy Sales analysis, is just one example of how I utilize Python for data generation, MySQL for in-depth data analysis, and Tableau for engaging data visualization. I am also dedicated to documenting project requirements, Service Level Agreements (SLAs), and the intricacies of the ETL (Extract, Transform, Load) processes.
 
