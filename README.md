@@ -108,7 +108,8 @@ The goal of this GitHub is not just to show code, but to show how data can be us
 
 You can view my resume here:
 
-[MAISHA LUVHANI RESUME.pdf](https://github.com/user-attachments/files/17965722/MAISHA.LUVHANI.RESUME.pdf)
+[MAISHA_LUVHANI_CV_2025_SENIOR_SPECIALIST.pdf](https://github.com/user-attachments/files/27589938/MAISHA_LUVHANI_CV_2025_SENIOR_SPECIALIST.pdf)
+
 
 ---
 
