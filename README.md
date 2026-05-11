@@ -1,40 +1,122 @@
-# Welcome
-👋 Hi, howzit? I'm Maisha!
+# 👋 Hi, howzit? I'm Maisha Luvhani
 
-🚀 I thrive on creative problem-solving and have a deep affinity for harnessing the power of data. With a diverse focus in data, I excel in finding inventive answers to intricate business dilemmas. My experience encompasses data consolidation, governance, and pioneering data-driven strategies. 
+I’m a BI Reporting & Analytics professional with experience across **business intelligence, data analytics, automation, revenue assurance, fraud analytics, and operational reporting**.
 
-💼 Please feel free to view my Resume in PDF for more details on my qualifications and experiences: 
+My work focuses on turning messy, fragmented, or underused data into clear, practical outputs that help businesses make better decisions. I enjoy building solutions that sit close to real business problems — dashboards, automated reporting pipelines, anomaly detection workflows, data quality checks, and analytics-ready datasets.
+
+I currently work in the telecommunications industry, where I support Revenue Assurance & Fraud Management through analytics, automation, and data-driven controls. My experience includes working with tools such as **Power BI, SQL, Python, Excel, Power Automate, Power Apps, Databricks, and Tableau**.
+
+This GitHub is where I document portfolio projects that demonstrate practical, client-facing data solutions.
+
+---
+
+## 🔍 What I Do
+
+- Build Power BI dashboards and reporting solutions
+- Clean, transform, and prepare messy datasets for analysis
+- Automate manual reporting and operational processes
+- Use Python and SQL to analyse business data
+- Design data quality checks and assurance controls
+- Build analytics workflows for revenue assurance, fraud detection, and operational monitoring
+- Document projects clearly so they are easy to understand, maintain, and hand over
+
+---
+
+## 🧰 Tools & Skills
+
+**Business Intelligence & Reporting**  
+Power BI, Tableau, Excel, Dashboard Design, KPI Reporting, Operational Reporting
+
+**Data Analysis & Engineering**  
+SQL, Python, Pandas, Data Cleaning, Data Transformation, ETL, Data Quality Checks
+
+**Automation & Workflow Tools**  
+Power Automate, Power Apps, Python Automation
+
+**Data Platforms**  
+Databricks, Trino SQL, MySQL, Delta Tables
+
+**Business Domains**  
+Telecommunications, Revenue Assurance, Fraud Management, CRM Data Quality, Sales & Marketing Analytics
+
+---
+
+## 📌 Featured Projects
+
+### 1️⃣ CRM Data Cleaning & Direct Mail Readiness Pipeline
+
+**Goal:**  
+To simulate a real-world client problem where a business has messy CRM data that needs to be cleaned, standardised, deduplicated, and prepared for sales outreach, direct mail, and marketing segmentation.
+
+**Business Problem:**  
+Small and medium-sized businesses often have customer records spread across inconsistent CRM fields. Names, emails, phone numbers, company names, and postal addresses may be incomplete, duplicated, incorrectly formatted, or stored in the wrong place. This creates problems for sales teams, marketing teams, and direct mail campaigns.
+
+**Solution:**  
+This project builds a Python-based data cleaning pipeline that takes a messy synthetic CRM dataset and produces a clean, campaign-ready customer file.
+
+**Key Features:**
+
+- Standardises customer names and company names
+- Cleans email addresses and phone numbers
+- Identifies missing or invalid contact details
+- Detects duplicate customer records
+- Flags incomplete postal addresses
+- Creates a final cleaned dataset ready for direct mail or sales outreach
+- Produces a data quality summary report
+
+**Skills Demonstrated:**  
+Python, Pandas, Data Cleaning, CRM Data Quality, Deduplication, Data Validation, Business Rules, Documentation
+
+**Repository:**  
+Coming soon
+
+---
+
+### 2️⃣ Toy Sales Analysis
+
+**Goal:**  
+To perform a descriptive analysis of toy store sales data and generate insights that can support product, pricing, and store-location decisions.
+
+**Description:**  
+This project explores toy store sales data using Python, MySQL, and Tableau. The aim is to analyse sales trends, customer behaviour, and product performance to help decision-makers understand what is driving revenue.
+
+**Skills Demonstrated:**  
+Data Analysis, Data Preprocessing, Data Visualisation, Tableau, MySQL, Python, CSV Data Ingestion, Documentation
+
+**Wiki:**  
+[Toy Sales Analysis Wiki](https://github.com/maishaluv/Analyst-Portfolio/wiki/Toy-Sales-Analysis-Wiki)
+
+---
+
+## 🚀 What I’m Building Next
+
+I’m currently building portfolio projects focused on practical data problems that businesses commonly need help with, especially in areas such as:
+
+- CRM data cleaning
+- Reporting automation
+- Power BI dashboards
+- SQL-based business analysis
+- Revenue assurance controls
+- Fraud and anomaly detection
+- Marketing and sales analytics
+
+The goal of this GitHub is not just to show code, but to show how data can be used to solve real operational and business problems.
+
+---
+
+## 📄 Resume
+
+You can view my resume here:
+
 [MAISHA LUVHANI RESUME.pdf](https://github.com/user-attachments/files/17965722/MAISHA.LUVHANI.RESUME.pdf)
 
- 
-🔍 Explore my repository to see my projects and more. I'm on a mission to diversify my data-driven skills and contribute to a world driven by insights.
+---
 
-🌟 Let's connect and collaborate on exciting projects!
+## 🤝 Let’s Connect
 
+I’m open to collaboration, freelance projects, and data/analytics opportunities.
 
-# About Me
-Let me tell you about myself. I bring a unique blend of creativity, analytical prowess, and a passion for solving complex business challenges to the table. With a Bachelor of Business degree from Victoria University, Melbourne, where I majored in Event Management and Marketing, my journey into the dynamic world of data and technology has been an exciting one.
-
-In my formative years, as a graduate within the telecommunications sector, I embarked on a project that was not just about data consolidation but also about finding unconventional solutions to business problems. This experience taught me that innovation and creativity are invaluable assets when navigating the data landscape. I realized the importance of data management, governance, and the role of policies, processes, and procedures in maintaining data integrity.
-
-Currently, I hold a vital role in telecommunications as a Business Assurance Specialist, collaborating closely with business stakeholders to establish and maintain secondary controls that protect against revenue leakages. This role marries my creative problem-solving approach with the rigor of data analytics.
-
-However, my aspirations extend beyond telecommunications. I envision a diverse approach to data, and I am passionate about exploring its applications across various industries. My ongoing project, the Toy Sales analysis, is just one example of how I utilize Python for data generation, MySQL for in-depth data analysis, and Tableau for engaging data visualization. I am also dedicated to documenting project requirements, Service Level Agreements (SLAs), and the intricacies of the ETL (Extract, Transform, Load) processes.
-
-This repository is a testament to my expertise in Excel, SQL, Business Intelligence, Python, and my dedication to innovative problem-solving. I am eager to bring my diverse and creative data-driven approach to contribute to the success of your organization.
-
-# Projects
-In this section, I present the culmination of my work – completed projects that demonstrate my skills in Excel, SQL, Business Intelligence, Python, and my passion for creative problem-solving. These projects are tangible illustrations of my data-driven approach and potential contributions to your organization's success.
-
-### 1️⃣ Toy Sales Analysis
-
-**Goal:** To perform a comprehensive descriptive analysis of Toy Store sales data, providing actionable insights to enhance product offerings, pricing strategies, and store locations.
-
-**Description:** This project focuses on leveraging data analytics to explore and uncover valuable insights from sales data obtained from a toy store. By utilizing Python for data generation and preprocessing, MySQL for data storage and analysis and Tableau for data visualization, the aim is to provide a holistic view of sales trends, customer behavior, and product performance. The goal is to empower decision-makers with data-driven insights to optimize various aspects of the business and boost revenue.
-
-**Skills:** Data Analysis, Data Preprocessing, Data Visualization (Tableau), MySQL, Python Scripting, Data Ingestion of CSV Files, and Documentation
-
-**Wiki**: [Toy Sales Analysis Wiki](https://github.com/maishaluv/Analyst-Portfolio/wiki/Toy-Sales-Analysis-Wiki)
+If you’re looking for someone who can bridge the gap between business problems and practical data solutions, feel free to connect with me.
 
 
 
