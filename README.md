@@ -116,6 +116,44 @@ The goal of this GitHub is not just to show code, but to show how data can be us
 
 ---
 
+### Professional Development & AI Tools
+
+## GitHub Copilot Demo Day — Microsoft Bryanston
+
+**Date:** 19 May 2026  
+**Location:** Microsoft Offices, Bryanston, Johannesburg  
+**Repository:** [skills-getting-started-with-github-copilot](https://github.com/maishaluv/skills-getting-started-with-github-copilot)
+
+### Overview
+
+I attended Microsoft's GitHub Copilot Demo Day at their Bryanston offices, where I completed a hands-on GitHub Skills exercise focused on getting started with GitHub Copilot.
+
+The exercise introduced practical ways to use GitHub Copilot as an AI-assisted development tool for code suggestions, debugging, testing, and documentation. Although this was a guided learning exercise, it forms part of my broader professional development in using AI tools to improve analytics, reporting, and automation workflows.
+
+### Why This Matters for Analytics
+
+As a BI Reporting & Analytics professional, GitHub Copilot can support faster delivery of technical work by helping with:
+
+- Python scripts for data cleaning and reporting automation
+- SQL query drafting and refactoring
+- Test case generation for analytical workflows
+- GitHub documentation and README creation
+- Code review and productivity improvements
+
+### Skills Demonstrated
+
+- GitHub repository management
+- GitHub Copilot prompting
+- AI-assisted development workflow
+- Python project exposure
+- Testing workflow awareness
+- Documentation and version control
+
+### Outcome
+
+Completed and published the GitHub Skills exercise repository as evidence of hands-on exposure to GitHub Copilot and AI-assisted development practices.
+
+---
 ## 📄 Resume
 
 You can view my resume here:
