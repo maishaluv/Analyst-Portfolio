@@ -68,23 +68,7 @@ This project builds a Python-based data cleaning pipeline that takes a messy syn
 Python, Pandas, Data Cleaning, CRM Data Quality, Deduplication, Data Validation, Business Rules, Documentation
 
 **Repository:**  
-Coming soon
-
----
-
-### 2️⃣ Toy Sales Analysis
-
-**Goal:**  
-To perform a descriptive analysis of toy store sales data and generate insights that can support product, pricing, and store-location decisions.
-
-**Description:**  
-This project explores toy store sales data using Python, MySQL, and Tableau. The aim is to analyse sales trends, customer behaviour, and product performance to help decision-makers understand what is driving revenue.
-
-**Skills Demonstrated:**  
-Data Analysis, Data Preprocessing, Data Visualisation, Tableau, MySQL, Python, CSV Data Ingestion, Documentation
-
-**Wiki:**  
-[Toy Sales Analysis Wiki](https://github.com/maishaluv/Analyst-Portfolio/wiki/Toy-Sales-Analysis-Wiki)
+[CRM Data Cleaning Project](https://github.com/maishaluv/crm-data-cleaning-pipeline)
 
 ---
 
