@@ -83,14 +83,14 @@ This project builds an executive Power BI dashboard using synthetic business dat
 
 **Key Features:**
 
-Tracks total revenue, monthly recurring revenue, and revenue trends  
-Monitors active customers, new customers, lost customers, and churn rate  
-Analyses customer growth and retention performance  
-Breaks down revenue by product, plan, region, and customer segment  
-Highlights churn patterns and cancellation reasons  
-Uses a structured star schema data model for Power BI reporting  
-Includes DAX measures for executive KPIs  
-Provides dashboard pages for executive overview, revenue trends, churn analysis, customer segmentation, and product performance  
+- Tracks total revenue, monthly recurring revenue, and revenue trends
+- Monitors active customers, new customers, lost customers, and churn rate  
+- Analyses customer growth and retention performance  
+- Breaks down revenue by product, plan, region, and customer segment  
+- Highlights churn patterns and cancellation reasons  
+- Uses a structured star schema data model for Power BI reporting  
+- Includes DAX measures for executive KPIs  
+- Provides dashboard pages for executive overview, revenue trends, churn analysis, customer segmentation, and product performance  
 
 **Skills Demonstrated:**  
 Power BI, DAX, Power Query, Data Modelling, Star Schema Design, KPI Development, Executive Dashboarding, Revenue Analytics, Churn Analysis, Customer Segmentation, Business Intelligence Documentation
