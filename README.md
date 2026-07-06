@@ -1,43 +1,43 @@
-# 👋 Hi, howzit? I'm Maisha Luvhani
+# 👋 Hi, I'm Maisha Luvhani
 
 I’m a BI Reporting & Analytics professional with experience across **business intelligence, data analytics, automation, revenue assurance, fraud analytics, and operational reporting**.
 
-My work focuses on turning messy, fragmented, or underused data into clear, practical outputs that help businesses make better decisions. I enjoy building solutions that sit close to real business problems — dashboards, automated reporting pipelines, anomaly detection workflows, data quality checks, and analytics-ready datasets.
+My work focuses on turning fragmented, inconsistent, or underused data into practical outputs that help businesses make better decisions. I build solutions that sit close to real business problems, including dashboards, automated reporting pipelines, anomaly detection workflows, data quality checks, and analytics-ready datasets.
 
-I currently work in the telecommunications industry, where I support Revenue Assurance & Fraud Management through analytics, automation, and data-driven controls. My experience includes working with tools such as **Power BI, SQL, Python, Excel, Power Automate, Power Apps, Databricks, and Tableau**.
+I currently work in the telecommunications industry, supporting Revenue Assurance & Fraud Management through analytics, automation, machine learning enablement, and data-driven controls. My toolkit includes **Power BI, SQL, Python, Excel, Power Automate, Power Apps, Databricks, Trino SQL, MySQL, Tableau, Visual Studio Code, and GitHub Copilot**.
 
-This GitHub is where I document portfolio projects that demonstrate practical, client-facing data solutions.
+This GitHub documents portfolio projects that demonstrate practical, business-facing data solutions.
 
 ---
 
 ## 🔍 What I Do
 
-- Build Power BI dashboards and reporting solutions
+- Build Power BI dashboards and executive reporting solutions
 - Clean, transform, and prepare messy datasets for analysis
 - Automate manual reporting and operational processes
-- Use Python and SQL to analyse business data
-- Design data quality checks and assurance controls
+- Use Python and SQL to analyse business and operational data
+- Design data quality checks, reconciliation logic, and assurance controls
 - Build analytics workflows for revenue assurance, fraud detection, and operational monitoring
-- Document projects clearly so they are easy to understand, maintain, and hand over
+- Document projects clearly for maintainability, handover, and business understanding
 
 ---
 
 ## 🧰 Tools & Skills
 
 **Business Intelligence & Reporting**  
-Power BI, Tableau, Excel, Dashboard Design, KPI Reporting, Operational Reporting
+Power BI, Tableau, Excel, Dashboard Design, KPI Reporting, Executive Reporting, Operational Reporting
 
 **Data Analysis & Engineering**  
-SQL, Python, Pandas, Data Cleaning, Data Transformation, ETL, Data Quality Checks
+SQL, Python, Pandas, Data Cleaning, Data Transformation, ETL/ELT, Data Quality Checks, Data Reconciliation
 
 **Automation & Workflow Tools**  
-Power Automate, Power Apps, Python Automation
+Power Automate, Power Apps, Python Automation, Visual Studio Code, GitHub Copilot
 
 **Data Platforms**  
 Databricks, Trino SQL, MySQL, Delta Tables
 
 **Business Domains**  
-Telecommunications, Revenue Assurance, Fraud Management, CRM Data Quality, Sales & Marketing Analytics
+Telecommunications, Revenue Assurance, Fraud Management, CRM Data Quality, Sales Analytics, Marketing Analytics, Operational Performance
 
 ---
 
@@ -46,22 +46,22 @@ Telecommunications, Revenue Assurance, Fraud Management, CRM Data Quality, Sales
 ### 1️⃣ CRM Data Cleaning & Direct Mail Readiness Pipeline
 
 **Goal:**  
-To simulate a real-world client problem where a business has messy CRM data that needs to be cleaned, standardised, deduplicated, and prepared for sales outreach, direct mail, and marketing segmentation.
+Simulate a business scenario where messy CRM data must be cleaned, standardised, deduplicated, and prepared for sales outreach, direct mail, and marketing segmentation.
 
 **Business Problem:**  
-Small and medium-sized businesses often have customer records spread across inconsistent CRM fields. Names, emails, phone numbers, company names, and postal addresses may be incomplete, duplicated, incorrectly formatted, or stored in the wrong place. This creates problems for sales teams, marketing teams, and direct mail campaigns.
+Customer records are often spread across inconsistent CRM fields. Names, emails, phone numbers, company names, and postal addresses may be incomplete, duplicated, incorrectly formatted, or stored in the wrong fields. This creates problems for sales teams, marketing teams, and customer communication campaigns.
 
 **Solution:**  
-This project builds a Python-based data cleaning pipeline that takes a messy synthetic CRM dataset and produces a clean, campaign-ready customer file.
+This project uses a Python-based data cleaning pipeline to transform a messy synthetic CRM dataset into a clean, campaign-ready customer file.
 
 **Key Features:**
 
-- Standardises customer names and company names
+- Standardises customer and company names
 - Cleans email addresses and phone numbers
 - Identifies missing or invalid contact details
 - Detects duplicate customer records
 - Flags incomplete postal addresses
-- Creates a final cleaned dataset ready for direct mail or sales outreach
+- Creates a cleaned dataset for outreach and segmentation
 - Produces a data quality summary report
 
 **Skills Demonstrated:**  
@@ -73,24 +73,24 @@ Python, Pandas, Data Cleaning, CRM Data Quality, Deduplication, Data Validation,
 ### 2️⃣ In Progress: Executive Sales & Churn Power BI Dashboard
 
 **Goal:**  
-To simulate a real-world executive reporting use case where a subscription-based business needs to understand sales performance, customer growth, churn, revenue trends, customer segmentation, and product/plan performance.
+Simulate an executive reporting use case where a subscription-based business needs to understand sales performance, customer growth, churn, revenue trends, customer segmentation, and product performance.
 
 **Business Problem:**  
-Subscription-based businesses often have customer, subscription, revenue, product, and churn data spread across different systems. Leadership teams need a single, trusted view of business performance so they can identify revenue trends, monitor customer growth, understand churn risk, and make faster strategic decisions.
+Subscription-based businesses often have customer, subscription, revenue, product, and churn data spread across different systems. Leadership teams need a single, trusted view of business performance to identify revenue trends, monitor customer growth, understand churn risk, and make faster strategic decisions.
 
 **Solution:**  
-This project builds an executive Power BI dashboard using synthetic business data to transform raw customer, subscription, transaction, product, and churn records into a clean, decision-ready reporting solution.
+This project builds an executive Power BI dashboard using synthetic business data. It transforms raw customer, subscription, transaction, product, and churn records into a clean, decision-ready reporting solution.
 
 **Key Features:**
 
 - Tracks total revenue, monthly recurring revenue, and revenue trends
-- Monitors active customers, new customers, lost customers, and churn rate  
-- Analyses customer growth and retention performance  
-- Breaks down revenue by product, plan, region, and customer segment  
-- Highlights churn patterns and cancellation reasons  
-- Uses a structured star schema data model for Power BI reporting  
-- Includes DAX measures for executive KPIs  
-- Provides dashboard pages for executive overview, revenue trends, churn analysis, customer segmentation, and product performance  
+- Monitors active customers, new customers, lost customers, and churn rate
+- Analyses customer growth and retention performance
+- Breaks down revenue by product, plan, region, and customer segment
+- Highlights churn patterns and cancellation reasons
+- Uses a structured star schema data model for Power BI reporting
+- Includes DAX measures for executive KPIs
+- Provides dashboard pages for executive overview, revenue trends, churn analysis, customer segmentation, and product performance
 
 **Skills Demonstrated:**  
 Power BI, DAX, Power Query, Data Modelling, Star Schema Design, KPI Development, Executive Dashboarding, Revenue Analytics, Churn Analysis, Customer Segmentation, Business Intelligence Documentation
@@ -99,7 +99,7 @@ Power BI, DAX, Power Query, Data Modelling, Star Schema Design, KPI Development,
 
 ## 🚀 What I’m Building Next
 
-I’m currently building portfolio projects focused on practical data problems that businesses commonly need help with, especially in areas such as:
+I’m building portfolio projects focused on practical business data problems, especially in:
 
 - CRM data cleaning
 - Reporting automation
@@ -107,13 +107,13 @@ I’m currently building portfolio projects focused on practical data problems t
 - SQL-based business analysis
 - Revenue assurance controls
 - Fraud and anomaly detection
-- Marketing and sales analytics
+M- arketing and sales analytics
 
-The goal of this GitHub is not just to show code, but to show how data can be used to solve real operational and business problems.
+The goal of this GitHub is to show not only code, but how data can be used to solve operational and commercial problems.
 
 ---
 
-### Professional Development & AI Tools
+### 🤖 Professional Development & AI Tools
 
 ## GitHub Copilot Demo Day — Microsoft Bryanston
 
@@ -123,9 +123,9 @@ The goal of this GitHub is not just to show code, but to show how data can be us
 
 ### Overview
 
-I attended Microsoft's GitHub Copilot Demo Day at their Bryanston offices, where I completed a hands-on GitHub Skills exercise focused on getting started with GitHub Copilot.
+I attended Microsoft’s GitHub Copilot Demo Day, where I completed a hands-on GitHub Skills exercise focused on AI-assisted development workflows.
 
-The exercise introduced practical ways to use GitHub Copilot as an AI-assisted development tool for code suggestions, debugging, testing, and documentation. Although this was a guided learning exercise, it forms part of my broader professional development in using AI tools to improve analytics, reporting, and automation workflows.
+The exercise covered practical use of GitHub Copilot for code suggestions, debugging, testing, documentation, and productivity improvement. This forms part of my broader professional development in using AI tools to improve analytics, reporting, and automation workflows.
 
 ### Why This Matters for Analytics
 
@@ -149,14 +149,6 @@ As a BI Reporting & Analytics professional, GitHub Copilot can support faster de
 ### Outcome
 
 Completed and published the GitHub Skills exercise repository as evidence of hands-on exposure to GitHub Copilot and AI-assisted development practices.
-
----
-## 📄 Resume
-
-You can view my resume here:
-
-[MAISHA_LUVHANI_CV_2025_SENIOR_SPECIALIST.pdf](https://github.com/user-attachments/files/27589938/MAISHA_LUVHANI_CV_2025_SENIOR_SPECIALIST.pdf)
-
 
 ---
 
