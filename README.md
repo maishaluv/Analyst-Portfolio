@@ -70,7 +70,7 @@ Python, Pandas, Data Cleaning, CRM Data Quality, Deduplication, Data Validation,
 **Repository:**  
 [CRM Data Cleaning Project](https://github.com/maishaluv/crm-data-cleaning-pipeline)
 
-### 2️⃣ Executive Sales & Churn Power BI Dashboard
+### 2️⃣ In Progress: Executive Sales & Churn Power BI Dashboard
 
 **Goal:**  
 To simulate a real-world executive reporting use case where a subscription-based business needs to understand sales performance, customer growth, churn, revenue trends, customer segmentation, and product/plan performance.
@@ -94,9 +94,6 @@ This project builds an executive Power BI dashboard using synthetic business dat
 
 **Skills Demonstrated:**  
 Power BI, DAX, Power Query, Data Modelling, Star Schema Design, KPI Development, Executive Dashboarding, Revenue Analytics, Churn Analysis, Customer Segmentation, Business Intelligence Documentation
-
-**Repository:**  
-Coming Soon
 
 ---
 
